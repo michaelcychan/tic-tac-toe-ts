@@ -10,9 +10,6 @@ function App() {
         Tic Tac Toe
       </header>
       <Board />
-      <footer>
-        Winner: X / O
-      </footer>
     </div>
   );
 }
